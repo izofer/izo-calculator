@@ -155,8 +155,9 @@ body{
     padding: 4% 3% 4% 3.9%;
 }
 
-or clone [HTML](https://github.com/izofer/izo-calculator/blob/master/index.html) and [CSS](https://github.com/izofer/izo-calculator/blob/master/css/styles.css) of github
+
 ```
+or clone [HTML](https://github.com/izofer/izo-calculator/blob/master/index.html) and [CSS](https://github.com/izofer/izo-calculator/blob/master/css/styles.css) of github
 
 # About this project
 
