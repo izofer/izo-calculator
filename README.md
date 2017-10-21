@@ -47,14 +47,14 @@ const calculator = new Calculator();
 
 ## Authors
 
-*  **...Izofer...** - [Bio](izofer.globso.com.co) - [Git](https://github.com/izofer)
+*  **...Izofer...** - [Bio](http://izofer.globso.co) - [Git](https://github.com/izofer)
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/izofer/izo-calculator/blob/master/LICENSE) file for details.
 
 ## Acknowledgments
 
-* Some friend that needed a little calculator.
+* Some friends that needed a little calculator.
 * I was inspired.
 * I love the code.
