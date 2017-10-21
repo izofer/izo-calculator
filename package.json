@@ -1,6 +1,6 @@
 {
   "name": "izo-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic Calculator",
   "main": "dist/src/js/scripts.js",
   "scripts": {
