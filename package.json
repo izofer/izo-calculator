@@ -1,0 +1,26 @@
+{
+  "name": "izo-calculator",
+  "version": "1.0.0",
+  "description": "Basic Calculator",
+  "main": "dist/src/js/scripts.js",
+  "scripts": {
+    "build": "babel src/js/scripts.js -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/izofer/izo-calculator.git"
+  },
+  "keywords": [
+    "javascript",
+    "math",
+    "css",
+    "html",
+    "izofer"
+  ],
+  "author": "izofer",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
